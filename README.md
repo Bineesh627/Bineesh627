@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋 I am Bineesh S
 
-<!--
-**Bineesh627/Bineesh627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=14d8ff&width=435&lines=%24+echo+%22A+Cyber+Security+Enthusiast;%24+echo+%22Self+Learner%22;%23+echo+%22CTF+Player+%F0%9F%9A%A9%22)](https://github.com/Bineesh627)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+
+```diff
+@@ Passionate About @@
+- Cyber Security 🔐
+- Artificial Intelligence 🤖
+- Penetration Testing 🛠️
+- Ethical Hacking 🧠
+- Linux Enthusiast 🐧
+- Web Security & Bug Hunting 🌐
+- Python Development 🐍
+- Automating Everything ⚙️
+```
